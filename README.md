@@ -12,7 +12,7 @@ Hongik Accounting Management Advanced System
 
 ## Project Info
 
-### Made by
+### Developed by
 [2022.3.17 ~ ]
 * **Minseok-Kim**, Hongik-Univ. Computer Engineering Dept. - https://github.com/pxxnxx
 * **Taehee-Han**, Hongik-Univ. Computer Engineering Dept. - https://github.com/110w110
